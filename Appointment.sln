@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appointment", "Appointment\Appointment.csproj", "{D2BB0354-3D41-4613-A512-3F465E83708F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appointment.DAL", "Appointment.DAL\Appointment.DAL.csproj", "{ADD03B6F-195A-4A4E-9DE9-E8A9A3F7758D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2BB0354-3D41-4613-A512-3F465E83708F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BB0354-3D41-4613-A512-3F465E83708F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BB0354-3D41-4613-A512-3F465E83708F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BB0354-3D41-4613-A512-3F465E83708F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD03B6F-195A-4A4E-9DE9-E8A9A3F7758D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD03B6F-195A-4A4E-9DE9-E8A9A3F7758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD03B6F-195A-4A4E-9DE9-E8A9A3F7758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD03B6F-195A-4A4E-9DE9-E8A9A3F7758D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F78BC409-B763-4544-8ABD-85E56C6806F6}
+	EndGlobalSection
+EndGlobal
